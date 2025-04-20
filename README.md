@@ -3,6 +3,8 @@ A repo consisting of 100 projects to enhance my skills in software development. 
 
 Prompt: Create a roadmap of 100 unique projects to learn software development. Projects should broken up into 3 categories: front-end, back-end, full-stack. Some projects can overlap categories if needed. Projects should increase in difficulty. Programming languages to be used: HTML, CSS, JavaScript, JavaScript Frameworks, Java, Python
 
+**NOTE:** Programming languages and suggested difficulty levels are just guidelines, not strict requirements. 
+
 Response: 
 
 Here’s a curated list of **100 unique software development projects**, categorized into **Front-End**, **Back-End**, and **Full-Stack**, increasing in difficulty. Technologies include **HTML, CSS, JavaScript, JS frameworks (React/Vue/Angular), Python**, and **Java**.
